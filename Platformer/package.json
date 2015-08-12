@@ -1,7 +1,7 @@
 {
-  "name": "Project",
+  "name": "Phaser Platformer",
   "version": "0.0.1",
-  "description": "Project",
+  "description": "Phaser Platformer",
   "Author": "Sean Robinson",
   "devDependencies": {
     "grunt": "^0.4.5",

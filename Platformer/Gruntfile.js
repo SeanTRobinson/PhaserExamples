@@ -26,6 +26,14 @@ module.exports = function(grunt) {
         dest: 'build/',
         expand: true,
         flatten: true
+      },
+      assets: {
+        src: [
+          'app/assets/*'
+        ],
+        dest: 'build/assets',
+        expand: true,
+        flatten: true
       }
     },
     connect: {
